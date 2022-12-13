@@ -6,8 +6,9 @@
 , "thumbnailLink": "nft1/thumbnail.jpg"
 , "contentsLink": "nft1/index.html"
 , "attachmentLinks":
-    [ "nft1/image1.jpg"
-    , "nft1/image2.jpg"
-    , "nft1/image3.jpg"
+    [ "nft1/style.css"
+    , "nft1/karthik-sreenivas-rsx-joaKYrk-unsplash.jpg"
+    , "nft1/marcel-l-PQewPJqNKwQ-unsplash.jpg"
+    , "nft1/tengyart-kSvpTrfhaiU-unsplash.jpg"
     ]
 }
