@@ -1,0 +1,13 @@
+{ "id": "nft1"
+, "name": "name of nft 1"
+, "description": "descr of nft 1"
+, "authors": ["author of nft 1"]
+, "categories": ["category of nft 1"]
+, "thumbnailLink": "nft1/thumbnail.jpg"
+, "contentsLink": "nft1/index.html"
+, "attachmentLinks":
+    [ "nft1/image1.jpg"
+    , "nft1/image2.jpg"
+    , "nft1/image3.jpg"
+    ]
+}
