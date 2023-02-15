@@ -1,4 +1,5 @@
 { "id": "nft1"
+, "mintingAllowedForThisUser": true
 , "name": "name of nft 1"
 , "description": "descr of nft 1"
 , "authors": ["author of nft 1"]
