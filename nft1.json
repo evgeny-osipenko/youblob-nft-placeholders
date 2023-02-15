@@ -6,12 +6,12 @@
 , "categories": ["category of nft 1"]
 , "files":
     { "thumbnail.jpg":                                     "nft1/thumbnail.jpg"
-    , "index.html":                                        "nft1/index.html"
+    , "main.html":                                         "nft1/index.html"
     , "style.css":                                         "nft1/style.css"
     , "images/karthik-sreenivas-rsx-joaKYrk-unsplash.jpg": "nft1/img1.jpg"
     , "images/marcel-l-PQewPJqNKwQ-unsplash.jpg":          "nft1/img2.jpg"
     , "images/tengyart-kSvpTrfhaiU-unsplash.jpg":          "nft1/img3.jpg"
     }
 , "thumbnailPath": "thumbnail.jpg"
-, "mainPath": "index.html"
+, "mainPath": "main.html"
 }
